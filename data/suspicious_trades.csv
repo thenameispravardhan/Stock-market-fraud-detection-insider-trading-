@@ -1,0 +1,5 @@
+trader_id,stock,quantity,reason,suspicion_score
+T201,TCS,10000,Trade followed by significant price increase (>5%),51
+T203,RELIANCE,15000,Trade followed by significant price increase (>5%),57
+T207,INFY,12000,Trade followed by significant price increase (>5%),57
+T213,TCS,11000,Trade followed by significant price increase (>5%),54

@@ -1,0 +1,6 @@
+flask>=2.3
+pandas>=2.0
+nsepy>=0.8
+# sqlite3 is part of Python's standard library – no install needed
+# pyspark is only needed on the Hadoop cluster node, not locally
+# pyspark>=3.4
